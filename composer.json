@@ -1,0 +1,29 @@
+{
+    "name": "kennetn/leadscore",
+    "description": "API wrapper for LeadScore App",
+    "type": "library",
+    "keywords": ["api", "leadscore"],
+    "homepage": "https://github.com/99kennetn/LeadScore.wrapper",
+    "license": "MIT",
+    "authors": [
+        {
+	    "name": "Kennet Najbjerg",
+            "role": "Junior Software Engineer"
+	},
+	{
+            "name": "René Tønner Stokholm",
+            "email": "rene@partner-it.dk",
+            "homepage": "http://www.partner-it.dk",
+            "role": "Software Developer"
+	}
+    ],
+    "require": {
+        "php": "^7.3",
+        "guzzlehttp/guzzle": "^7.0.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "LeadScore\\": "src/"
+        }
+    }
+}
