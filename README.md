@@ -1,5 +1,5 @@
 # Original Repo:
-https://bitbucket.org/vmcms/leadscore.wrapper/src/2.1.0/
+https://bitbucket.org/vmcms/leadscore.wrapper
 
 # LeadScore App API PHP wrapper
 
