@@ -23,7 +23,7 @@ The recommended way to install the LeadScore APP API wrapper is though [Composer
 
 {
     "require": {
-        "kennetn/leadscore": "^3.0"
+        "kennetn/leadscore": "^4.0"
     }
 }
 ```
